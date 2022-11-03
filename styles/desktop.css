@@ -3,6 +3,9 @@ h1,
 h2 {
   font-family: "Raleway", sans-serif;
 }
+#logo a {
+  color: white;
+}
 .container {
   margin: auto;
   max-width: 1200px;
